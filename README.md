@@ -1,5 +1,5 @@
 ## Hey, I'm Alex 👋
 
-I'm a Hubber working as an Enterprise Support Engineer ✨ I'm based in Scotland!
+I'm working as an Enterprise Support Engineer at GitHub ✨ 
 
-Chat to me about gaming, rocket science and animals 🎮🚀🐕
+I'm based in Scotland! 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Feel free to chat to me about anything, but I particularly enjoy speaking about gaming, space and your pets 🎮🚀🐕 
