@@ -1,5 +1,7 @@
 ## Hey, I'm Alex 👋
 
-I'm working as an Enterprise Support Engineer at GitHub ✨ I'm based in Scotland! 🏴󠁧󠁢󠁳󠁣󠁴󠁿 
+I'm a hubber working on the Enterprise Support team ✨ I'm based in Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 
-Feel free to chat to me about anything, but I particularly enjoy speaking about gaming, space and pets 🎮 🚀 🐕 
+You'll find me playing detective in GraphQL land or down an infrastucture rabbit hole. 🔍
+
+If I'm not there, I'm probably playing with my pets, travelling or learning about spaceships 🚀  
