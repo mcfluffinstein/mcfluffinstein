@@ -1,5 +1,3 @@
-## 👋 Hey, I'm Alex
+## 👋 Hey, I'm Alex @mcfluffinstein
 
-I'm a hubber working on the Enterprise Support team ✨ I'm based in Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
-
-Chat to me about anything nerdy (especially space) and I'd be over the moon 🚀 I'm also a passionate about bouldering, animals and videogames 🧗
+I'm working as an Enterprise Support Engineer at GitHub :octocat: My focus is on the Ecosystem, Access and Infrastucture squads. I love finding creative solutions to problems and building my technical skillset 🌱  Outside of work, you'll find me lead climbing, stargazing or gaming 👨‍🚀 
