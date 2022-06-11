@@ -6,5 +6,5 @@ I'm working as an Enterprise Support Engineer at GitHub :octocat: My focus is on
 * Python
 * C++ 
 * Studying for AZ-900 Certification
-* Elasticsearch
+* ELK Stack - Elasticsearch, Logstash, and Kibana.
 * Docker, Kubernetes, and AWS ECS/EKS
