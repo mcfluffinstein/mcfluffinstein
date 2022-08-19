@@ -4,7 +4,7 @@ I'm working as an Enterprise Support Engineer at GitHub :octocat: My focus is on
 
 * Bash/shell scripting 
 * Python
-* C++ 
+* Ruby
 * Studying for AZ-900 Certification
 * ELK Stack - Elasticsearch, Logstash, and Kibana.
 * Docker, Kubernetes, and AWS ECS/EKS
