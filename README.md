@@ -5,6 +5,6 @@ I'm working as an Enterprise Support Engineer at GitHub :octocat: My focus is on
 * Bash/shell scripting 
 * Python
 * Ruby
-* Studying for AZ-900 Certification
-* ELK Stack - Elasticsearch, Logstash, and Kibana.
-* Docker, Kubernetes, and AWS ECS/EKS
+* IaC: Chef, Puppet and Terraform
+* GraphQL and REST APIs
+* Docker and Kubernetes
