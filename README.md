@@ -5,6 +5,6 @@ I work as an Enterprise Support Engineer at GitHub :octocat: My focus is on the 
 * Shell scripting 
 * Python
 * Ruby
-* IaC Tools: Chef, Puppet and Terraform
+* Studying for CompTIA Linux+
 * GraphQL and REST APIs
 * Docker and Kubernetes
