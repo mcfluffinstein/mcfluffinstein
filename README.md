@@ -1,12 +1,25 @@
-## 👋 Hey, I'm Alex @mcfluffinstein
+# Hey, I'm Alex 👋
 
-I'm working in the Enterprise Support team at GitHub :octocat: My focus is on the Ecosystem, Infrastucture and Access squads. I'm passionate about finding creative solutions to problems and building my technical skillset 🌱 
+I work in Enterprise Support at GitHub :octocat:, with a focus on Ecosystem, Infrastructure, and Access.
 
-Outside of work, you'll find me rock climbing, stargazing or picking up new programming languages 👨‍🚀 Here's a quick summary of what I'm currently learning:
+I enjoy untangling complex enterprise problems across APIs, authentication, integrations, and distributed systems. I like following an issue from the customer-reported symptom through to the request-level evidence, then turning the findings into clear guidance and practical solutions.
 
-* Shell scripting 
-* Python
-* Ruby
-* Studying for CompTIA Linux+
-* GraphQL and REST APIs
-* Docker and Kubernetes
+I'm particularly interested in:
+
+- GitHub's REST and GraphQL APIs
+- Authentication, authorization, and application integrations
+- Infrastructure, containers, and Kubernetes
+- Observability and data-driven troubleshooting
+- Automation with shell scripting, Python, and Ruby
+
+## What I'm learning 🌱
+
+- Linux systems and CompTIA Linux+
+- Python and Ruby
+- Shell scripting and workflow automation
+- REST and GraphQL API development
+- Docker and Kubernetes
+
+## Away from the keyboard 🔭
+
+You'll usually find me rock climbing or trying to photograph the night sky.
