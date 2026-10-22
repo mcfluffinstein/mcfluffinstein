@@ -18,7 +18,7 @@ I work in the Enterprise Support team at GitHub :octocat:, with a focus on custo
 
 ## Away from the keyboard 🔭
 
-You'll usually find me rock climbing or trying to photograph the night sky. Here's some of the images I've taken of our wondeful universe:
+You'll usually find me rock climbing or _trying_ to photograph our wonderful night sky. Here's some of the images I've taken recently:
 
 ### IC1396 (Elephant's Trunk Nebula)
 <img width="1536" height="1024" alt="final-1 (1)" src="https://github.com/user-attachments/assets/e37e41e7-cb82-4642-a7b1-db22bfe93be6" />
