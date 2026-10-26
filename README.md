@@ -1,6 +1,6 @@
 # 👋 I'm Alex, thanks for checking out my profile.
 
-### Established Support Engineer with a speciality in enterprise systems debugging, security and production code. Bsc IT Management and Business.**
+### Established Support Engineer with a speciality in enterprise systems debugging, security and production code. Bsc IT Management and Business.
 
 I've worked on GitHub’s Enterprise Support team for over 5 1/2 years, where I lead complex technical escalations, contribute production code and build internal tooling. I’m drawn to judgment-intensive work: tracing failures across distributed production systems, weighing security and rollout risks, separating evidence from assumptions, and turning ambiguous technical findings into clear, actionable guidance for customers. 
 
