@@ -2,11 +2,21 @@
 
 **Established support engineer with a speciality in enterprise systems debugging, security and production code. Bsc IT Management and Business.**
 
-I work on GitHub’s Enterprise Support team, where I lead complex technical escalations, contribute production code and build internal tooling. I’m most drawn to judgment-intensive work: tracing failures across distributed production systems, weighing security and rollout risks, separating evidence from assumptions, and turning ambiguous technical findings into clear, actionable guidance for our customers. 
+I work on GitHub’s Enterprise Support team, where I lead complex technical escalations, contribute production code and build internal tooling. I’m drawn to judgment-intensive work: tracing failures across distributed production systems, weighing security and rollout risks, separating evidence from assumptions, and turning ambiguous technical findings into clear, actionable guidance for customers. 
 
 ---
 
+**Technical focus 🧰**
 
+| Area | Technologies and experience |
+| --- | --- |
+| Backend | Ruby, Rails, monolithic architectures, background jobs, feature flags, testing, and production rollouts |
+| APIs and integrations | REST, GraphQL, OAuth, webhooks, application authentication, permissions, token management, and rate limiting |
+| Enterprise systems | Hosted and on-premises platforms, upgrades, clustering, backups, high availability, and capacity planning |
+| Observability | Kusto/KQL, Azure Data Explorer, structured logs, distributed tracing, telemetry correlation, and performance analysis |
+| Systems | Linux, Bash, SSH, networking, resource contention, and production diagnostics |
+| Reliability and security | Root-cause analysis, incident response, authorization boundaries, rollout risk, and failure-mode analysis |
+| Technical leadership | Engineering escalations, evidence-based recommendations, customer communication, and making complex systems understandable |
 
 
 
