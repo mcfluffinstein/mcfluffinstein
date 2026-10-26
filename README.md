@@ -8,7 +8,6 @@ I've worked on GitHub’s Enterprise Support team for over 5 1/2 years, where I 
 
 ### Technical focus 🧰
 
-| Strength | What I do |
 | --- | --- |
 | Enterprise platform engineering | Diagnose and operate complex hosted and on-premises systems, including upgrades, clustering, backups, high availability, and capacity planning |
 | API and integration architecture | Investigate and improve REST and GraphQL integrations, authentication flows, permissions, webhooks, token lifecycles, and rate-limit behavior |
@@ -19,17 +18,15 @@ I've worked on GitHub’s Enterprise Support team for over 5 1/2 years, where I 
 
 ---
 
-### What I'm learning 🌱
+### Background 🎓
 
-- Linux adminsitration
-- Python and Ruby
-- Shell scripting and workflow automation
-- REST and GraphQL API development
-- Docker and Kubernetes
+I hold a BSc in IT Management for Business from Glasgow Caledonian University and certifications in Microsoft Azure Fundamentals (AZ-900), GitHub Foundations, and GitHub Actions. I am currently working toward Azure Administrator Associate (AZ-104) and CompTIA Linux+. This combination of business, cloud, platform, and systems knowledge helps me connect customer impact with technical evidence and deliver practical, well-reasoned solutions.
 
-## Away from the keyboard 🔭
+---
 
-You'll usually find me rock climbing or _trying_ to photograph our wonderful night sky. Here's some of the images I've taken recently:
+### Away from the keyboard 🔭
+
+You'll usually find me rock climbing or _trying_ to photograph our wonderful univerise Here's some of the images I've taken recently:
 
 ### IC1396 (Elephant's Trunk Nebula)
 <img width="1536" height="1024" alt="final-1 (1)" src="https://github.com/user-attachments/assets/e37e41e7-cb82-4642-a7b1-db22bfe93be6" />
