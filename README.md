@@ -9,6 +9,7 @@ I've worked on GitHub’s Enterprise Support team for over 5 1/2 years, where I 
 ### Technical focus 🧰
 
 | --- | --- |
+| --- | --- |
 | Enterprise platform engineering | Diagnose and operate complex hosted and on-premises systems, including upgrades, clustering, backups, high availability, and capacity planning |
 | API and integration architecture | Investigate and improve REST and GraphQL integrations, authentication flows, permissions, webhooks, token lifecycles, and rate-limit behavior |
 | Production observability | Reconstruct incidents from Kusto/KQL, distributed traces, structured logs, and telemetry across multiple services |
